@@ -4,4 +4,4 @@
 
 - Απλή δέσμευση (single binding) χαρακτηριστικού της κλάσης του component στο template του component.
 - Χρήση του placeholder `{{<attribute_name}}`
-
+- Δημιουργία νέου component
