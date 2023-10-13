@@ -8,3 +8,4 @@
 - Alternate component input
 - input | undefined
 - 
+- ngFor
