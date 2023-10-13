@@ -7,5 +7,8 @@
 - Δημιουργία νέου component
 - Alternate component input
 - input | undefined
-- 
 - ngFor
+- Event Binding (template -> controller)
+- Click handlers
+- Input handlers
+- Two way binding
