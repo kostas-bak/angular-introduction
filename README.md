@@ -12,3 +12,5 @@
 - Click handlers
 - Input handlers
 - Two way binding
+- Component output
+- Template Driven Forms
