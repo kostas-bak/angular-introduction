@@ -14,3 +14,4 @@
 - Two way binding
 - Component output
 - Template Driven Forms
+- Reactive Forms
