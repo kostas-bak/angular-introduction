@@ -15,3 +15,4 @@
 - Component output
 - Template Driven Forms
 - Reactive Forms
+- Http Client
