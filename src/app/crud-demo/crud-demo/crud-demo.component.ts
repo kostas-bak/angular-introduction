@@ -19,4 +19,8 @@ export class CrudDemoComponent {
   onSelection(operation: string) {
     this.crudOperation = operation
   }
+
+  listUsers() {
+    this.crudOperation = 'list'
+  }
 }

@@ -116,6 +116,15 @@
       "address": "New Zeland",
       "photoURL": "https://i.pravatar.cc/?img=44",
       "id": 13
+    },
+    {
+      "givenName": "Kostas",
+      "surName": "Bakalis",
+      "age": 26,
+      "email": "kostasbakalis@aueb.gr",
+      "address": "Sarafi 1",
+      "photoURL": "",
+      "id": 14
     }
   ]
 }
