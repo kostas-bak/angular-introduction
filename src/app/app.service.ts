@@ -16,4 +16,8 @@ export class AppService {
   addUser(user: Person) {
     return this.http.post<Person>('http://localhost:3000/users', user)
   }
+
+  getUserById(id:number) {
+    return this.http.get<Person>(`http://localhost:3000/users/${id}`)
+  }
 }

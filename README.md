@@ -17,3 +17,5 @@
 - Reactive Forms
 - Http Client
 - CRUD Users scaffolding
+- CRUD Users: List all Users
+- CRUD Users: Read User By Id
